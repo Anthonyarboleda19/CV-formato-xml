@@ -1,0 +1,40 @@
+# CV-formato-xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Anthony:curriculum xmlns:Anthony="https://Anthony.com/curriculum">
+  <Anthony:datos_personales>
+    <Anthony:nombre>Anthony Josua</Anthony:nombre>
+    <Anthony:apellidos>Arboleda Arias</Anthony:apellidos>
+    <Anthony:emails>
+	<Anthony:trabajo>anthony.arboleda.viaje@gmail.com</Anthony:trabajo>
+	<Anthony:personal>arboleda.anthony19@gmail.com</Anthony:personal>
+	</Anthony:emails>
+  </Anthony:datos_personales>
+  <Anthony:experiencias>
+    <Anthony:experiencia>
+      <Anthony:empresa>singular</Anthony:empresa>
+      <Anthony:cargo>auxiliar de camarero</Anthony:cargo>
+      <Anthony:inicio>2026-10</Anthony:inicio>
+      <Anthony:final>actualmente</Anthony:final>
+    </Anthony:experiencia>
+    <Anthony:experiencia>
+      <Anthony:empresa>megaviche</Anthony:empresa>
+      <Anthony:cargo>atencion al cliente</Anthony:cargo>
+      <Anthony:inicio>2025-08</Anthony:inicio>
+      <Anthony:final>a2025-10</Anthony:final>
+    </Anthony:experiencia>
+    </Anthony:experiencias>
+  <Anthony:formacion>
+    <Anthony:formacion>
+	  <Anthony:centro>Unidad Educativa Replica Juan Pio Montufar</Anthony:centro>
+      <Anthony:cargo>estudiante de bachillerato general unificado</Anthony:cargo>
+      <Anthony:inicio>2023-9</Anthony:inicio>
+      <Anthony:final>2025-6</Anthony:final>
+	</Anthony:formacion>
+	<Anthony:formacion>
+	  <Anthony:centro>Ceac</Anthony:centro>
+      <Anthony:cargo>estudiante de administrador de sistemas informáticos en red</Anthony:cargo>
+      <Anthony:inicio>2026-9</Anthony:inicio>
+      <Anthony:final>actualmente</Anthony:final>
+	</Anthony:formacion>
+   </Anthony:formacion>
+</Anthony:curriculum>
